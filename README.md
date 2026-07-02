@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/BlueEagle-AI-Gateway/BlueEagle-AI-Gateway?style=flat-square&logo=github&color=gold)](https://github.com/BlueEagle-AI-Gateway/BlueEagle-AI-Gateway)
+[![Stars](https://img.shields.io/github/stars/gitstq/blueeagle-openai-api?style=flat-square&logo=github&color=gold)](https://github.com/gitstq/blueeagle-openai-api)
 [![Price](https://img.shields.io/badge/Price-0.09x%20Official-brightgreen?style=flat-square)](https://ahg.codes)
 [![Ratio](https://img.shields.io/badge/Recharge-1:1%20(RMB:USD)-blue?style=flat-square)](https://ahg.codes)
 [![Native](https://img.shields.io/badge/Pool-100%25%20Official%20Native-red?style=flat-square)](https://ahg.codes)
